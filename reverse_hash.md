@@ -29,5 +29,3 @@ Int64 hash (String s) {
 ```
 
 For example, if we were trying to find the 7 letter string where `hash(the_string)` was `680131659347`, the answer would be "leepadg".
-
-To apply, please email akhil@loktra.com with your solution as the first word in the subject line. Include link of your code on Github, and also send us a current resume in HTML, Plain Text, or PDF format. In the body of the email please explain why you would be a good fit for this job.
