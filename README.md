@@ -9,6 +9,7 @@ In order to be considered for the fullstack engineer position, you must complete
 
 
 ## Task
+
 You must complete atleast two of the following tasks:
 1. Solve [Reverse Hash](https://github.com/Loktra/fullstack-engineer/blob/master/Hash.md) problem.
 2. Complete [Python URI] (https://github.com/Loktra/fullstack-engineer/blob/master/Python%20Uri.md) task.
