@@ -1,10 +1,3 @@
-## Full Stack Engineer Programming Task
-
-In order to be considered for the full stack engineer position, you must complete the following steps. 
-
-*Note: This task should take no longer than 1-2 hours at the most.*
-
-
 ## Task
 
 Write code to find a 9 letter string of characters that contains only letters from
