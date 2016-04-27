@@ -4,8 +4,8 @@ Implement a robust text scraper that will connect to a page on www.shopping.com,
 
 
 ## Following are the URLs
-    *http://www.shopping.com/products?KW=<keword>*
-    *http://www.shopping.com/products~PG-<number>?KW=<keyword>"*
+    `http://www.shopping.com/products?KW=<keword>`
+    `http://www.shopping.com/products~PG-<number>?KW=<keyword>"`
 
 ## Queries: 
     Query 1: (requires a single argument)
