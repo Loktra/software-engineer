@@ -1,6 +1,6 @@
-## Full Stack Engineer Programming Task
+## Software Engineer Programming Task
 
-In order to be considered for the fullstack engineer position, you must complete the following steps. 
+In order to be considered for the software engineer position, you must complete the following steps. 
 
 
 ### Prerequisites
