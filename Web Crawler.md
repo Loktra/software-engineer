@@ -12,7 +12,7 @@ Implement a robust text scraper that will connect to a page on www.shopping.com,
     `your_program <keyword>`
     
     Query 2: (requires two arguments)
-    `your_program <keyword> <page number>`
+    `your_program <page number> <keyword>`
 
  
 ### The focus of this problem is on correctness and design. Please use `Python` or `Node.js` for writing your code.
