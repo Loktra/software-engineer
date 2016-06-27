@@ -1,6 +1,6 @@
 ## Task
 
-Write code to find a 9 letter string of characters that contains only letters from
+Write code to find a string of characters that contains only letters from
 
 `acdegilmnoprstuw`
 
